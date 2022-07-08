@@ -5,7 +5,7 @@
 
  ## Data Source
  
- - indonesia-cities from [Future Data Tracks](https://github.com/dion-ricky/future-data-1/issues/10) by [dion-ricky](https://github.com/dion-ricky).
+ - indonesia-provinces from [Future Data Tracks](https://github.com/dion-ricky/future-data-1/issues/10) by [dion-ricky](https://github.com/dion-ricky).
 
  - indonesia-cities from [GeoJSON of Indonesia's Cities](https://github.com/okzapradhana/indonesia-city-geojson) by [okzapradhana](https://github.com/okzapradhana).
  
